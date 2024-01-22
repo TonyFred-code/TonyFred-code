@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Alfred
 I'm currently learning full stack web development
-on [The Odin Project](!https://www.theodinproject.com/)
+on [The Odin Project](https://www.theodinproject.com/)
 
 
 
