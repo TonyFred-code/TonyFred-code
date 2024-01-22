@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, My name is Alfred
+I'm currently learning full stack web development
+on [The Odin Project](!https://www.theodinproject.com/)
+
+
 
 <!--
 **TonyFred-code/TonyFred-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
