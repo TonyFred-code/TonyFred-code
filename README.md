@@ -7,6 +7,8 @@ I'm currently learning full stack web development on [The Odin Project](https://
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonyFred-code&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
+https://wakatime.com/badge/github/TonyFred-code/project-shopping-cart.svg
+
 <!--
 <details>
   <summary>
